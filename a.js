@@ -1,1 +1,1 @@
-<script>aler(1)</script>
+<script>alert(1)</script>
